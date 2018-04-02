@@ -1,2 +1,2 @@
 # StockPrice
-Predict the price of a stock
+Predict the price of an amazon (AMZN) stock
